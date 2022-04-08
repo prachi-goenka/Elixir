@@ -106,3 +106,16 @@ font-weight: normal;
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+.dropdown{
+  background-color:#30e3cb;
+  margin: 40px 350px 0 350px;
+  padding: 40px;
+
+
+}
+.form-control{
+  line-height: 2px;
+  margin: 20px 0 20px 0;
+
+
+}
